@@ -2,7 +2,7 @@
 
 ![map of Макарівський район] (/Makarivskyi.jpg)
 
-* https://makariv-dilovyi.com.ua/
+* http://makariv-dilovyi.com.ua/
 
 http://makariv.com.ua/meteodata-makariv
 
