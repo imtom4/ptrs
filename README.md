@@ -1,4 +1,4 @@
 *drafts for support*
 
-- html, URL, etc.
+- data, URL, RSS, etc.
 - questions, err-reports and suggestions 
