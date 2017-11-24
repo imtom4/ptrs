@@ -29,4 +29,6 @@
 
 4. http://bc-sport.com.ua/ `http://bc-sport.com.ua/feed/`
 
-5. 
+5. http://kopiika.com.ua/  `http://kopiika.com.ua/feed/atom`
+
+6. 
