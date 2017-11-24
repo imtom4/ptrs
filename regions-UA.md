@@ -31,4 +31,3 @@
 
 5. http://kopiika.com.ua/  `http://kopiika.com.ua/feed/atom`
 
-6. 
