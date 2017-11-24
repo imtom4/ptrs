@@ -18,8 +18,7 @@ http://makariv.com.ua/meteodata-makariv
 
 * http://www.vasilkov.info/main/vasilkov_news/
 
-* http://www.nashvasilkiv.info/aggregator/categories/6
-* http://www.nashvasilkiv.info/novosti-vasilkova.htm (with link2SOURCE)
+* http://www.nashvasilkiv.info/aggregator/categories/6, http://www.nashvasilkiv.info/novosti-vasilkova.htm (with link2SOURCE)
 
 * 
 
