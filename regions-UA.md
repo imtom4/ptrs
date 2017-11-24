@@ -18,6 +18,9 @@ http://makariv.com.ua/meteodata-makariv
 
 * http://www.vasilkov.info/main/vasilkov_news/
 
+* http://www.nashvasilkiv.info/aggregator/categories/6
+* http://www.nashvasilkiv.info/novosti-vasilkova.htm (with link2SOURCE)
+
 * 
 
 = https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%BE%D1%86%D0%B5%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD {BILATSERKVA}
