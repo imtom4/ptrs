@@ -31,3 +31,6 @@
 
 5. http://kopiika.com.ua/  `http://kopiika.com.ua/feed/atom`
 
+
+[ -ський район] = wiki-URL
+
