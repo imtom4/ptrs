@@ -32,5 +32,13 @@
 5. http://kopiika.com.ua/  `http://kopiika.com.ua/feed/atom`
 
 
-[ -ський район] = wiki-URL
+[Обу́хівський райо́н] = https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%D1%83%D1%85%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD
+
+1. https://obukhiv.info/ `https://obukhiv.info/feed/`
+
+2. http://obukhiv.kiev.ua/ua/gorozontalnoe_meny/pro_misto/novini_mista_arhiv.html
+
+3. http://www.obukhiv.online
+
+
 
