@@ -55,4 +55,7 @@
 
 1. http://www.boguslav.net/novini `http://www.boguslav.net/rss/content/16/feed.rss`
 
-2. 
+2. https://boguslav.daily.kiev.ua/category/boguslavski-novini/
+
+3. http://boguslavmrada.gov.ua/index.php/en/novyny
+
