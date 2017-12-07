@@ -24,8 +24,7 @@
 
 2. http://probc.tv/
 
-3. http://bila-tserkva.in.ua/news/news-of-city-bila-tserkva
-> http://forum.bila-tserkva.in.ua/
+3. http://bila-tserkva.in.ua/news/news-of-city-bila-tserkva ?http://forum.bila-tserkva.in.ua/
 
 4. http://bc-sport.com.ua/ `http://bc-sport.com.ua/feed/`
 
