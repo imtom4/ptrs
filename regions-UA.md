@@ -53,11 +53,20 @@
 
 [Богусла́вський райо́н] = https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D1%83%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD 
 
-1. http://www.boguslav.net/novini `http://www.boguslav.net/rss/content/16/feed.rss`
+ 1. http://www.boguslav.net/novini `http://www.boguslav.net/rss/content/16/feed.rss`
 
-2. https://boguslav.daily.kiev.ua/category/boguslavski-novini/
+ 2. https://boguslav.daily.kiev.ua/category/boguslavski-novini/
 
-3. http://boguslavmrada.gov.ua/index.php/en/novyny
+ 3. http://boguslavmrada.gov.ua/index.php/en/novyny
+
 
 [Бориспільський район] = https://uk.wikipedia.org/wiki/Бориспільський_район 
 
+ 1.
+
+
+ [Бородянський_район] = https://uk.wikipedia.org/wiki/Бородянський_район
+ 
+ 1.
+ 
+ 
