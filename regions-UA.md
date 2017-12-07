@@ -53,3 +53,6 @@
 
 [Богусла́вський райо́н] = https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D1%83%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD 
 
+1. http://www.boguslav.net/novini `http://www.boguslav.net/rss/content/16/feed.rss`
+
+2. 
