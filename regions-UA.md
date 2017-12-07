@@ -59,3 +59,5 @@
 
 3. http://boguslavmrada.gov.ua/index.php/en/novyny
 
+[Бориспільський район] = https://uk.wikipedia.org/wiki/Бориспільський_район 
+
