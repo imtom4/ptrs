@@ -43,4 +43,12 @@
 4. http://obukhiv.org/news/
 
 
+[Баришівський район] = https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B8%D1%88%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD 
+
+1. http://www.adm-baryshivka.gov.ua/index.php/novyny/barishivka-shchodenna
+
+2. http://baryshivka.org.ua/main/
+
+3. http://www.baryshivka.net.ua/index.php?page=news
+
 
