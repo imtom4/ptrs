@@ -62,7 +62,10 @@
 
 [Бориспільський район] = https://uk.wikipedia.org/wiki/Бориспільський_район 
 
- 1.
+ 1. http://tvboryspil.com/novini/
+ 2. http://i-visti.com/news/  `http://i-visti.com/engine/rss.php`
+ 3. http://rayrada.org.ua/  `http://rayrada.org.ua/rss/799/`
+ 4. 
 
 
  [Бородянський_район] = https://uk.wikipedia.org/wiki/Бородянський_район
