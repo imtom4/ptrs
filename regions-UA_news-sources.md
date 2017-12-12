@@ -72,8 +72,8 @@
 
  [Бородянський_район] = https://uk.wikipedia.org/wiki/Бородянський_район
  
- 1. 
- 2.
+ 1. http://bsr.gov.ua/ 
+ 2. 
  
  
  [Броварський район] = https://uk.wikipedia.org/wiki/Броварський_район 
