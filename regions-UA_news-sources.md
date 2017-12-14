@@ -51,12 +51,11 @@
  1. http://tvboryspil.com/novini/
  2. http://i-visti.com/news/  `http://i-visti.com/engine/rss.php`
  3. `http://rayrada.org.ua/rss/799/`
-   > http://i-visti.com/news/pereyaslav/
-   > http://i-visti.com/news/yagotyn
-   > http://i-visti.com/news/berezan/
-   > http://i-visti.com/news/zgurvka/
+   > - http://i-visti.com/news/pereyaslav/
+   > - http://i-visti.com/news/yagotyn
+   > - http://i-visti.com/news/berezan/
+   > - http://i-visti.com/news/zgurvka/
  
-
 
  [Бородянський_район] = https://uk.wikipedia.org/wiki/Бородянський_район
  
