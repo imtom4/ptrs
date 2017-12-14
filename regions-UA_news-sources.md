@@ -70,3 +70,5 @@
  - https://atbrovary.org `https://atbrovary.org/rss`
  - http://i-visti.com/news/brovary/
  - https://brovary.net.ua/novyny/ 
+ - `http://www.news-brovary.org.ua/feed/ [^]` and `http://www.news-brovary.org.ua/category/brov-rayon/feed/ [^]`
+
