@@ -72,9 +72,7 @@
  - https://brovary.net.ua/novyny/ 
  - `http://www.news-brovary.org.ua/feed/` and `http://www.news-brovary.org.ua/category/brov-rayon/feed/`
 
-[Вишгородський район] = https://uk.wikipedia.org/wiki/Вишгородський_район 
- - 
+ [Вишгородський район] = https://uk.wikipedia.org/wiki/Вишгородський_район 
  
-[Кагарлицький район] = https://uk.wikipedia.org/wiki/Кагарлицький_район 
- -
+ [Кагарлицький район] = https://uk.wikipedia.org/wiki/Кагарлицький_район 
  
