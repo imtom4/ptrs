@@ -70,5 +70,11 @@
  - https://atbrovary.org `https://atbrovary.org/rss`
  - http://i-visti.com/news/brovary/
  - https://brovary.net.ua/novyny/ 
- - `http://www.news-brovary.org.ua/feed/ [^]` and `http://www.news-brovary.org.ua/category/brov-rayon/feed/ [^]`
+ - `http://www.news-brovary.org.ua/feed/` and `http://www.news-brovary.org.ua/category/brov-rayon/feed/`
 
+[Вишгородський район] = https://uk.wikipedia.org/wiki/Вишгородський_район 
+ - 
+ 
+[Кагарлицький район] = https://uk.wikipedia.org/wiki/Кагарлицький_район 
+ -
+ 
