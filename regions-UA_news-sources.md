@@ -50,8 +50,12 @@
 
  1. http://tvboryspil.com/novini/
  2. http://i-visti.com/news/  `http://i-visti.com/engine/rss.php`
- 3. http://rayrada.org.ua/  `http://rayrada.org.ua/rss/799/`
- 4. 
+ 3. `http://rayrada.org.ua/rss/799/`
+   > http://i-visti.com/news/pereyaslav/
+   > http://i-visti.com/news/yagotyn
+   > http://i-visti.com/news/berezan/
+   > http://i-visti.com/news/zgurvka/
+ 
 
 
  [Бородянський_район] = https://uk.wikipedia.org/wiki/Бородянський_район
@@ -65,5 +69,5 @@
  - http://brovary-rada.gov.ua/ `http://brovary-rada.gov.ua/rss/`
  - http://brovary.city/news
  - https://atbrovary.org `https://atbrovary.org/rss`
+ - http://i-visti.com/news/brovary/
  - https://brovary.net.ua/novyny/ 
- 
