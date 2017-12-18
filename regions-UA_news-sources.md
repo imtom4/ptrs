@@ -74,6 +74,8 @@
 
 
  [Вишгородський район] = https://uk.wikipedia.org/wiki/Вишгородський_район 
+ 1. http://vysh.gov.ua/novyny/ 
+ - 
  
  [Кагарлицький район] = https://uk.wikipedia.org/wiki/Кагарлицький_район 
  
