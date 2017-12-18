@@ -87,3 +87,7 @@
  [Кагарлицький район] = https://uk.wikipedia.org/wiki/Кагарлицький_район 
  
  - 
+
+
+ [Сквирський_район] = https://uk.wikipedia.org/wiki/Сквирський_район 
+ 
