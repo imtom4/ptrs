@@ -75,7 +75,12 @@
 
  [Вишгородський район] = https://uk.wikipedia.org/wiki/Вишгородський_район 
  1. http://vysh.gov.ua/novyny/ 
- - 
+ 2. https://vyshgorod.in.ua/novini
+ 3. https://vyshgorod.city/
+ 4. http://dymer.rada.org.ua/news/
+ 5. http://novipetrivtsi-rada.gov.ua/noviny
+ 6. http://www.staripetrivci-rada.gov.ua/novini
+ - `http://rada.org.ua/rss/4106/`
  
  [Кагарлицький район] = https://uk.wikipedia.org/wiki/Кагарлицький_район 
- 
+ - 
