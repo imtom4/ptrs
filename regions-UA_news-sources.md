@@ -87,6 +87,7 @@
  [Кагарлицький район] = https://uk.wikipedia.org/wiki/Кагарлицький_район 
  
  - http://www.kagavisti.com/index.php/novini-rajonu `http://www.kagavisti.com/index.php/novini-rajonu?format=feed&type=rss`
+ - http://www.kagarlyk-mrada.gov.ua/news 
  - 
  
 
