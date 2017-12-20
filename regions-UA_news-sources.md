@@ -93,7 +93,8 @@
 
  [Сквирський_район] = https://uk.wikipedia.org/wiki/Сквирський_район 
  
- - 
+ - http://skvira-rda.org.ua/
+ - `http://skviravo.ucoz.ru/news/rss/`
  
 
 >>> helpful can be https://validator.w3.org/feed/ service 
