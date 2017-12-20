@@ -96,6 +96,7 @@
  - http://skvira-rada.gov.ua/
  - http://skvira-rda.org.ua/
  - `http://skviravo.ucoz.ru/news/rss/`
+ - https://www.09000.xn--j1amh/ 
  - 
 
 
