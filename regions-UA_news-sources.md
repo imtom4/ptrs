@@ -66,17 +66,17 @@
  
  [Броварський район] = https://uk.wikipedia.org/wiki/Броварський_район 
  
+ - `https://brovary.net.ua/feed/` 
  - `http://brovary-rada.gov.ua/rss/`
- 2. http://brovary.city/news
+ * http://brovary.city/news
  - `https://atbrovary.org/rss`
- 4. http://i-visti.com/news/brovary/
- 5. https://brovary.net.ua/novyny/ 
+ * http://i-visti.com/news/brovary/
+ * https://brovary.net.ua/novyny/ 
  - `http://www.news-brovary.org.ua/feed/` and `http://www.news-brovary.org.ua/category/brov-rayon/feed/`
 
 
  [Вишгородський район] = https://uk.wikipedia.org/wiki/Вишгородський_район 
  
- - `https://brovary.net.ua/feed/` 
  2. https://vyshgorod.in.ua/novini
  3. https://vyshgorod.city/
  4. http://dymer.rada.org.ua/news/
