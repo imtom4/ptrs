@@ -69,7 +69,7 @@
  - `http://brovary-rada.gov.ua/rss/`
  * http://brovary.city/news
  - `https://atbrovary.org/rss`
- * http://i-visti.com/news/brovary/
+ - `http://i-visti.com/news/brovary/rss.xml`
  * https://brovary.net.ua/novyny/ 
  - `http://www.news-brovary.org.ua/feed/` and `http://www.news-brovary.org.ua/category/brov-rayon/feed/`
 
@@ -82,6 +82,7 @@
  5. http://novipetrivtsi-rada.gov.ua/noviny
  6. http://www.staripetrivci-rada.gov.ua/novini
  - `http://rada.org.ua/rss/4106/` 
+ - 
  
  
  [Кагарлицький район] = https://uk.wikipedia.org/wiki/Кагарлицький_район 
