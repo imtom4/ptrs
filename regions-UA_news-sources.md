@@ -66,9 +66,9 @@
  
  [Броварський район] = https://uk.wikipedia.org/wiki/Броварський_район 
  
- - http://brovary-rada.gov.ua/ `http://brovary-rada.gov.ua/rss/`
+ - `http://brovary-rada.gov.ua/rss/`
  2. http://brovary.city/news
- - https://atbrovary.org `https://atbrovary.org/rss`
+ - `https://atbrovary.org/rss`
  4. http://i-visti.com/news/brovary/
  5. https://brovary.net.ua/novyny/ 
  - `http://www.news-brovary.org.ua/feed/` and `http://www.news-brovary.org.ua/category/brov-rayon/feed/`
@@ -76,13 +76,13 @@
 
  [Вишгородський район] = https://uk.wikipedia.org/wiki/Вишгородський_район 
  
- 1. http://vysh.gov.ua/novyny/ 
+ - `https://brovary.net.ua/feed/` 
  2. https://vyshgorod.in.ua/novini
  3. https://vyshgorod.city/
  4. http://dymer.rada.org.ua/news/
  5. http://novipetrivtsi-rada.gov.ua/noviny
  6. http://www.staripetrivci-rada.gov.ua/novini
- - `http://rada.org.ua/rss/4106/`
+ - `http://rada.org.ua/rss/4106/` 
  
  
  [Кагарлицький район] = https://uk.wikipedia.org/wiki/Кагарлицький_район 
@@ -102,4 +102,5 @@
 
 
 **helpful can be https://validator.w3.org/feed/ service**
+
 ***thanks to http://digg.com/reader/ service too***
