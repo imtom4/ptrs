@@ -60,8 +60,8 @@
  
  [Бородянський_район] = https://uk.wikipedia.org/wiki/Бородянський_район
  
- 1. http://bsr.gov.ua/ 
- 2. http://rdabr.gov.ua/ 
+ - http://bsr.gov.ua/ `http://bsr.gov.ua/feed`
+ - http://rdabr.gov.ua/ `http://rdabr.gov.ua/index.php?format=feed&type=rss`
  
  
  [Броварський район] = https://uk.wikipedia.org/wiki/Броварський_район 
@@ -102,3 +102,4 @@
 
 
 **helpful can be https://validator.w3.org/feed/ service**
+***thanks to http://digg.com/reader/ service too***
