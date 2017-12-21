@@ -16,7 +16,8 @@
 [Білоцеркі́вський район] = https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%BE%D1%86%D0%B5%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD {BILATSERKVA}
 
 - http://www.bc-like.com/blog/news/ `http://www.bc-like.com/rss/`
-2. http://probc.tv/
+- http://probc.tv/ 
+`http://probc.tv/?format=feed&type=rss`
 3. http://bila-tserkva.in.ua/news/news-of-city-bila-tserkva ?http://forum.bila-tserkva.in.ua/
 - http://bc-sport.com.ua/ `http://bc-sport.com.ua/feed/`
 - http://kopiika.com.ua/  `http://kopiika.com.ua/feed/atom`
