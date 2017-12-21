@@ -70,7 +70,6 @@
  * http://brovary.city/news
  - `https://atbrovary.org/rss`
  - `http://i-visti.com/news/brovary/rss.xml`
- * https://brovary.net.ua/novyny/ 
  - `http://www.news-brovary.org.ua/feed/` and `http://www.news-brovary.org.ua/category/brov-rayon/feed/`
 
 
