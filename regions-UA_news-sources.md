@@ -95,9 +95,9 @@
  [Сквирський_район] = https://uk.wikipedia.org/wiki/Сквирський_район 
  
  - http://skvira-rada.gov.ua/
- - http://skvira-rda.org.ua/
+ - `http://skvira-rda.org.ua/index.php?format=feed&type=rss`
  - `http://skviravo.ucoz.ru/news/rss/`
- - https://www.09000.xn--j1amh/ `https://www.09000.xn--j1amh/feed/`
+ - `https://www.09000.xn--j1amh/feed/`
  - 
 
 
