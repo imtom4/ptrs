@@ -97,10 +97,9 @@
  - `http://skvira-rda.org.ua/index.php?format=feed&type=rss`
  - `http://skviravo.ucoz.ru/news/rss/`
  - `https://www.09000.xn--j1amh/feed/`
-
-
-[Києво-Святошинський район] = https://uk.wikipedia.org/wiki/Києво-Святошинський_район 
-  -
+ 
+ [Києво-Святошинський район] = https://uk.wikipedia.org/wiki/Києво-Святошинський_район 
+  * 
 
 
  [Яготинський район] = https://uk.wikipedia.org/wiki/Яготинський_район 
