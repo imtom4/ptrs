@@ -100,14 +100,14 @@
  - 
 
 
-https://uk.wikipedia.org/wiki/Києво-Святошинський_район = Києво-Святошинський
- -
+[Києво-Святошинський район] = https://uk.wikipedia.org/wiki/Києво-Святошинський_район 
+  -
 
 
-https://uk.wikipedia.org/wiki/Яготинський_район = Яготинський
-   > http://i-visti.com/news/yagotyn/ 
-   > http://i-visti.com/news/berezan/ 
-   > http://i-visti.com/news/zgurvka/ 
+ [Яготинський район] = https://uk.wikipedia.org/wiki/Яготинський_район 
+   - `http://i-visti.com/news/yagotyn/rss.xml` 
+   - `http://i-visti.com/news/berezan/rss.xml` 
+   - `http://i-visti.com/news/zgurvka/rss.xml` 
 
 **helpful can be https://validator.w3.org/feed/ service**
 
